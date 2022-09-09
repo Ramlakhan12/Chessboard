@@ -1,0 +1,31 @@
+#dd{
+    background-color: orange;
+    align-items:center;
+    margin: 89px;
+    width: 300px;
+    font-size:40px;
+}
+div{
+    align-items: center;
+    margin: 89px;
+}
+table{
+    border: 2px solid black;
+   
+    border-collapse: collapse;
+   
+}
+#tt{
+    border: 2px solid black;
+    height: 50px;
+    width: 50px;
+    
+    background-color: orange;
+}
+#te{
+    border: 2px solid black;
+    height: 50px;
+    width: 50px;
+    
+    background-color: white;
+}
